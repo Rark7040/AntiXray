@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description":"Xrayを妨害します(検証プラットフォーム; Minecraft BE for Wiindows10)",
+        "name": "AntiXray",
+        "uuid": "7b2b7364-3888-4394-956f-4f6a540edb32",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 4, 0]
+    },
+    "modules": [
+        {
+            "description": "Xrayを妨害します(検証プラットフォーム; Minecraft BE for Wiindows10)",
+            "type": "resources",
+            "uuid": "96b93efe-2db1-4924-84e9-67d056349fe6",
+            "version": [1, 0, 0]
+        }
+    ]
+}

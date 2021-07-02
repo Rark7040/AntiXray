@@ -1,0 +1,11 @@
+{
+  "stone" : { 
+    "blockshape": "block"
+  },
+  "deepslate" : { 
+    "blockshape": "block"
+  },
+  "netherrack" : { 
+    "blockshape": "block"
+  }
+}
